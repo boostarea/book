@@ -1,27 +1,25 @@
-# 电子书分享
+# Ebook Sharing Repository 📚
+## I. Repository Introduction 🌟
+This repository is dedicated to sharing a variety of high-quality ebook resources, covering different themes and genres. The aim is to provide convenience and intellectual nourishment for readers.💡
+## II. Ebook List 📖
+"Title 1": [Brief introduction to the content and features of book 1]
+"Title 2": [Brief introduction to the content and features of book 2]
+"Title 3": [Brief introduction to the content and features of book 3]
+(More books can be added as per the actual situation.)
+## III. Usage Instructions 📝
+Simply click on the ebook file name to download the corresponding ebook.💾
+Please ensure that you use these ebook resources in a legal and compliant manner and respect copyright.📄
+## IV. Contribution Guidelines 🤝
+If you have high-quality ebook resources to share, you can contribute through the following steps:
+Fork this repository.🐱‍🏍
+Add your ebook file to an appropriate location and update the ebook list in the README file by adding an introduction to the new ebook.📄
+Submit a Pull Request and wait for review and merging.👀
+## V. Notes ⚠️
+The ebook resources in this repository are for learning and communication purposes only and are strictly prohibited from being used for commercial purposes.💰
+If any infringement is found, please contact the repository administrator in time for handling.📧
+When downloading and using ebooks, please ensure that your device has corresponding reading software support.📱
 
-欢迎来到我们的电子书分享项目！你在这里可以找到各种电子书资源，供你阅读和学习。
+***
 
-## 📚 书籍列表
-
-
-
-## 📖 如何阅读电子书
-
-1. 点击上面的链接下载你感兴趣的电子书。
-2. 使用 PDF 阅读器或适合的电子书阅读器打开文件。
-3. 享受阅读！
-
-## 📢 注意事项
-
-- 请尊重版权，确保你有权下载和分享这些书籍。
-- 如果你有任何问题或建议，请提交issue。
-
-## 🤝 贡献
-
-欢迎贡献更多的电子书！请提交 PR 或在 issue 中提出建议。
-
-## 📄 许可证
-
-本项目遵循 MIT 许可证 - 详情见 [LICENSE](LICENSE) 文件。
+Hope this ebook sharing repository brings you a rich reading experience!🎉
 
