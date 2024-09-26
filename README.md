@@ -1,37 +1,27 @@
-# eBook Sharing
+# 电子书分享
 
-Welcome to our eBook sharing project! Here you can find various eBook resources for your reading and learning pleasure.
+欢迎来到我们的电子书分享项目！你在这里可以找到各种电子书资源，供你阅读和学习。
 
-## 📚 Book List
+## 📚 书籍列表
 
-1. **Title**: Computer Systems: A Programmer's Perspective
-   - **Authors**: Randal E. Bryant, David R. O'Hallaron
-   - **Link**: [Download Link](https://example.com/book1)
 
-2. **Title**: Introduction to Algorithms
-   - **Authors**: Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
-   - **Link**: [Download Link](https://example.com/book2)
 
-3. **Title**: Python Crash Course
-   - **Authors**: Eric Matthes
-   - **Link**: [Download Link](https://example.com/book3)
+## 📖 如何阅读电子书
 
-## 📖 How to Read the eBooks
+1. 点击上面的链接下载你感兴趣的电子书。
+2. 使用 PDF 阅读器或适合的电子书阅读器打开文件。
+3. 享受阅读！
 
-1. Click on the links above to download the eBook you are interested in.
-2. Use a PDF reader or an appropriate eBook reader to open the file.
-3. Enjoy your reading!
+## 📢 注意事项
 
-## 📢 Important Notes
+- 请尊重版权，确保你有权下载和分享这些书籍。
+- 如果你有任何问题或建议，请提交issue。
 
-- Please respect copyright laws and ensure you have the right to download and share these books.
-- If you have any questions or suggestions, please contact [your_email@example.com](mailto:your_email@example.com).
+## 🤝 贡献
 
-## 🤝 Contribution
+欢迎贡献更多的电子书！请提交 PR 或在 issue 中提出建议。
 
-We welcome contributions of more eBooks! Please submit a pull request or raise an issue with your suggestions.
+## 📄 许可证
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+本项目遵循 MIT 许可证 - 详情见 [LICENSE](LICENSE) 文件。
 
