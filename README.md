@@ -1,26 +1,44 @@
-# Ebook Sharing Repository 📚
-## I. Repository Introduction 🌟
-This repository is dedicated to sharing a variety of high-quality ebook resources, covering different themes and genres. The aim is to provide convenience and intellectual nourishment for readers.💡
+# 🌌 Celestial Strokes（墨染星河）
 
-## II. Ebook List 📖
-- "Title 1": [Brief introduction to the content and features of book 1]
-- "Title 2": [Brief introduction to the content and features of book 2]
-- "Title 3": [Brief introduction to the content and features of book 3]
-(More books can be added as per the actual situation.)
-## III. Usage Instructions 📝
-1. Simply click on the ebook file name to download the corresponding ebook.💾
-2. Please ensure that you use these ebook resources in a legal and compliant manner and respect copyright.📄
-## IV. Contribution Guidelines 🤝
-If you have high-quality ebook resources to share, you can contribute through the following steps:
-1. Fork this repository.🐱‍🏍
-2. Add your ebook file to an appropriate location and update the ebook list in the README file by adding an introduction to the new ebook.📄
-3. Submit a Pull Request and wait for review and merging.👀
-## V. Notes ⚠️
-1. The ebook resources in this repository are for learning and communication purposes only and are strictly prohibited from being used for commercial purposes.💰
-2. If any infringement is found, please contact the repository administrator in time for handling.📧
-3. When downloading and using ebooks, please ensure that your device has corresponding reading software support.📱
+> “星汉西流，空把银河作梦。” — 唐·李白《夜泊牛渚怀古》
 
-***
+欢迎来到 **墨染星河**，分享书籍的魔力与它们激发的故事。在这里，每本书都是一颗星，每一段感悟都等待发现。
 
-Hope this ebook sharing repository brings you a rich reading experience!🎉
+---
 
+## 🌠 平台简介
+
+**墨染星河** 记录阅读的灵感火花，捕捉那些稍纵即逝的思绪，并在文字星海中与志同道合者相遇：
+
+- 📖 **星空书库**：写下你对书的感悟，从最爱的那一句话到深刻的阅读反思。
+- ✍️ **灵感交织**：用情感表达记录书带来的震撼，用心灵和他人交流。
+- 💬 **思想共鸣**：与书友互动评论，点亮彼此的灵感火花。
+
+---
+
+## ✨ 灵感分享指南
+
+- 📚 分享一本书中让你铭记的金句，或它如何改变了你的一部分世界观。
+- 🌟 写下阅读时引发的梦境或幻想，让文字成为自由的翅膀。
+- 💌 记录一本书在特定时刻带给你的慰藉或力量，感恩那瞬间的温暖。
+
+---
+## 🚀 电子书下载列表
+> 提示：点击下载链接即可获取对应书籍的资源。
+
+| 书名          | 下载链接                                             | 说明                         |
+|---------------|----------------------------------------------------|------------------------------|
+| 《编码：隐匿在计算机软硬件背后的语言.pdf》 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14351164.svg)]([https://doi.org/10.5281/zenodo.14351164](https://zenodo.org/records/14351164/files/%E7%BC%96%E7%A0%81%EF%BC%9A%E9%9A%90%E5%8C%BF%E5%9C%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E7%A1%AC%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E8%AF%AD%E8%A8%80.pdf)) |  |
+
+
+---
+
+> “在书的星河中漫步，捕捉每一道微光，与世界分享你的心灵轨迹。”
+
+--- 
+
+## 📧 联系我们
+
+📌 **官方网站**: [墨染星河](https://yourdomain.com)  
+📬 **联系邮箱**: galaxybook@yourdomain.com  
+📱 **社交媒体**: [微博](https://weibo.com/yourpage) | [公众号](https://mp.weixin.qq.com)
