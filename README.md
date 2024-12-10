@@ -28,7 +28,7 @@
 
 | 书名          | 下载链接                                             | 说明                         |
 |---------------|----------------------------------------------------|------------------------------|
-| 《编码：隐匿在计算机软硬件背后的语言.pdf》 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14351164.svg)]([https://doi.org/10.5281/zenodo.14351164](https://zenodo.org/records/14351164/files/%E7%BC%96%E7%A0%81%EF%BC%9A%E9%9A%90%E5%8C%BF%E5%9C%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E7%A1%AC%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E8%AF%AD%E8%A8%80.pdf)) |  |
+| 《编码：隐匿在计算机软硬件背后的语言.pdf》 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14351164.svg)](https://zenodo.org/records/14351164/files/%E7%BC%96%E7%A0%81%EF%BC%9A%E9%9A%90%E5%8C%BF%E5%9C%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E7%A1%AC%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E8%AF%AD%E8%A8%80.pdf) |  |
 
 
 ---
